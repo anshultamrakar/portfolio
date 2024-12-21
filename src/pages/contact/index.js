@@ -5,7 +5,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import { meta } from "../../content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
 import { contactConfig } from "../../content_option";
-import resume from '../../assets/resume/ResumeOmprakash.pdf'
+import resume from '../../assets/resume/Anshul Tamrakar.pdf'
 export const ContactUs = () => {
   const [formData, setFormdata] = useState({
     email: "",
