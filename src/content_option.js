@@ -7,41 +7,41 @@ import GuildFacet from './assets/images/projectImages/guildFacet.png'
 
 // 7138a3
 
-const logotext = "Omprakash Patel";
+const logotext = "Anshul Tamrakar";
 const meta = {
-    title: "Omprakash Patel",
-    description: "I’m Ompraksh Patel data scientist _ Full stack devloper,currently working in Berlin",
+    title: "",
+    description: "I’m Anshul Tamrakar data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m Omprakash Patel",
+    title: "I’m Anshul Tamrakar",
     animated: {
-        first: "I am Reactjs Developer",
-        second: "2+ year of Experience",
-        third: "I develop Websites",
+        first: "I am Front end Developer",
+        second: "with 3 year of Experience",
+        third: "I build web apps",
     },
-    description: "Experienced Software Development Engineer with a proven track record in developing and implementing software solutions. Skilled in various programming languages and frameworks, adept at troubleshooting and problem-solving. Seeking a challenging role as a React Developer to utilize my expertise in building efficient and user-friendly web applications",
+    description: "Experienced Software Development Engineer with a proven track record in developing and implementing software solutions. Skilled in various programming languages and frameworks, adapt at troubleshooting and problem-solving. Seeking a challenging role as a Front end Developer to utilize my expertise in building efficient and user-friendly web applications",
     your_img_url: homeBanner,
 };
 
 const dataabout = {
     title: "Introduction",
-    aboutme: "I am a React developer with 2+ years of experience in React and Next.js, and I am available to join immediately. I am excited about the opportunity to contribute to your team and would love to discuss how my skills can benefit your projects.",
+    aboutme: "I am a Front end developer with 3 years of experience in React and Next.js, and I am available to join immediately. I am excited about the opportunity to contribute to your team and would love to discuss how my skills can benefit your projects.",
 };
 const worktimeline = [{
         jobtitle: "Reactjs Developer",
-        where: "Task Source",
+        where: "Belgium Webnet",
         date: "Currently working",
     },
     {
         jobtitle: "Nextjs Developer",
-        where: "Task Source",
+        where: "Belgium Webnet",
         date: "Currently working",
     },
     {
         jobtitle: "Reactjs Developer",
-        where: "Exergy Infotech",
-        date: "Feb 2022 - Dec 2022",
+        where: "Witmates Technologies",
+        date: "March 2022 - February 2023",
     },
 ];
 
@@ -54,11 +54,11 @@ const skills = [{
         // value: 99,
     },
     {
-        name: "Nodejs",
+        name: "Typescript",
         // value: 99,
     },
     {
-        name: "MongoDB",
+        name: "Unit Testing",
         // value: 99,
     },
     {
@@ -81,6 +81,14 @@ const skills = [{
         name: "CSS",
         // value: 99,
     },
+    {
+        name: "Material UI",
+        // value: 99,
+    },
+    {
+        name: "Tailwind CSS",
+        // value: 99,
+    }
 ];
 
 const services = [{
@@ -127,9 +135,9 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "connecttoom29@gmail.com",
-    YOUR_FONE: "9926333085",
-    YOUR_FONE_link: `tel:9926333085`,
+    YOUR_EMAIL: "anshultamrakar487@gmail.com",
+    YOUR_FONE: "7566534045",
+    YOUR_FONE_link: `tel:7566534045`,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
