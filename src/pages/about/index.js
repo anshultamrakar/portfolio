@@ -60,8 +60,8 @@ export const About = () => {
                   <TimelineConnector />
                 </TimelineSeparator>
                 <TimelineContent>
-                  <h2>TASK SOURCE</h2>
-                  <p> React Developer / Nextjs Developer</p>
+                  <h2>Belgium webnet Inc</h2>
+                  <p>Front end developer</p>
                   <div className="employer_container">
                     <ul className="">
                       <li>Lead and trained a group of developers and gave them training in react ecosystem.</li>
@@ -78,8 +78,8 @@ export const About = () => {
                   <TimelineConnector />
                 </TimelineSeparator>
                 <TimelineContent>
-                  <h2>EXERGY INFOTECH</h2>
-                  <p> React Developer</p>
+                  <h2>Witmates Technologies Pvt ltd</h2>
+                  <p>Front end Developer</p>
                   <div className="employer_container">
                     <ul className="">
                       <li>Developed and maintained software applications</li>
@@ -107,7 +107,7 @@ export const About = () => {
                 <TimelineContent>
                   <h5 className="work_histry_h5">Ecommerce and Specialized Websites</h5>
                   <div className="employer_container">
-                    <p>Proven track record in developing a wide range of websites, spanning from Ecommerce and AI tools, B2B and B2C Marketplaces.</p>
+                    <p>Proven track record in developing a wide range of apps, spanning from Ecommerce and AI tools, B2B and B2C Marketplaces.</p>
                   </div>
                 </TimelineContent>
               </TimelineItem>
