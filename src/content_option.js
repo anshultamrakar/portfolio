@@ -9,7 +9,7 @@ import GuildFacet from './assets/images/projectImages/guildFacet.png'
 
 const logotext = "Anshul Tamrakar";
 const meta = {
-    title: "",
+    title: "Anshul Tamrakar",
     description: "I’m Anshul Tamrakar data scientist _ Full stack devloper,currently working in Berlin",
 };
 
